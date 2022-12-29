@@ -1,8 +1,8 @@
 # Desafios de Código Javascript da DIO
 
-- Desafio Somando Multiplos.
+- Desafios Básicos
 
-- Desafio Triangulo de moedas.
+- Desafios Intermediários
 
 
 
